@@ -20,7 +20,7 @@
     "ecmaVersion": 2018,
     "sourceType": "module"
   },
-  "plugins": ["react", "react-native", "jsx-a11y", "import"],
+  "plugins": ["react", "react-native", "jsx-a11y", "import", "prettier"],
 
   "rules": {
     "react/jsx-filename-extension": ["error", {"extensions": [".js", ".jsx"]}],
